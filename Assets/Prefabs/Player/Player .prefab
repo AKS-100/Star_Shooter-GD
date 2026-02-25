@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 4367988180949711661}
   - component: {fileID: 9080745886123507893}
   - component: {fileID: 5195061595215761154}
+  - component: {fileID: 2252639624578478304}
   m_Layer: 0
   m_Name: 'Player '
   m_TagString: Player
@@ -105,7 +106,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5727719225894395789}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 5215dff261282bd49bc4aaec56b54ed8, type: 2}
   m_CullingMode: 0
@@ -355,3 +356,19 @@ MonoBehaviour:
   fireRate: 0.05
   projectileSpread: 1
   fireEffect: {fileID: 7676928166952653023, guid: 35783867b628da541ba396bfb31ade10, type: 3}
+--- !u!114 &2252639624578478304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5727719225894395789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5409a1004977e45459f9fab602d7f9e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSkinLoader
+  shipOptions:
+  - {fileID: -6479130895276290339, guid: ea1768e74fc21e14db19cb0742ddb746, type: 3}
+  - {fileID: 5561252313898378945, guid: 189ba7a3517573748bac900893e11acf, type: 3}
+  - {fileID: 21300000, guid: c12e0117f1ecad04d913d45d26b98a5f, type: 3}

@@ -1952,9 +1952,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerSkinLoader
   shipOptions:
-  - {fileID: -6479130895276290339, guid: ea1768e74fc21e14db19cb0742ddb746, type: 3}
   - {fileID: 5561252313898378945, guid: 189ba7a3517573748bac900893e11acf, type: 3}
-  - {fileID: 21300000, guid: c12e0117f1ecad04d913d45d26b98a5f, type: 3}
+  - {fileID: 4915364739084419094, guid: 0988a290a87db6d4e801b14ccbefe73a, type: 3}
+  - {fileID: -5892080852645432826, guid: b8add02d14f02eb49a02b57c8558a4a4, type: 3}
+  - {fileID: 1484208527795053249, guid: ec983c70ff79ea74c9fcb458222a69b5, type: 3}
   displayImage: {fileID: 613277775}
 --- !u!114 &1202965574
 MonoBehaviour:
@@ -2491,6 +2492,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3185640382151416214, guid: 17c4624ac5de93a4a9852fa498f4e23d, type: 3}
+      propertyPath: m_ScreenshotKey
+      value: p
+      objectReference: {fileID: 0}
     - target: {fileID: 5134030434012020370, guid: 17c4624ac5de93a4a9852fa498f4e23d, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.0915

@@ -298,7 +298,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: d947c2d17a546494eae0096c16da465e, type: 3}
+      m_Icon: {fileID: 2800000, guid: b8add02d14f02eb49a02b57c8558a4a4, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -702,7 +702,7 @@ PlayerSettings:
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Star Shooter
-  organizationId: hiveworks04
+  organizationId: 
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

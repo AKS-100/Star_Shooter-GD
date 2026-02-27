@@ -4339,7 +4339,7 @@ GameObject:
   - component: {fileID: 1786721577}
   - component: {fileID: 1786721576}
   m_Layer: 0
-  m_Name: Level_1_Music
+  m_Name: Level_2_Music
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4356,7 +4356,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: a49e291e9e189ca47bf49672d5c292ba, type: 3}
+  m_Resource: {fileID: 8300000, guid: 3a2ce2cc48514564fa06d6f078d52779, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -5868,7 +5868,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8409855329898107040, guid: c27ef6479c9558c45ad20c1a69b3215d, type: 3}
       propertyPath: currentLives
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -369,6 +369,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerSkinLoader
   shipOptions:
-  - {fileID: -6479130895276290339, guid: ea1768e74fc21e14db19cb0742ddb746, type: 3}
   - {fileID: 5561252313898378945, guid: 189ba7a3517573748bac900893e11acf, type: 3}
-  - {fileID: 21300000, guid: c12e0117f1ecad04d913d45d26b98a5f, type: 3}
+  - {fileID: 4915364739084419094, guid: 0988a290a87db6d4e801b14ccbefe73a, type: 3}
+  - {fileID: -5892080852645432826, guid: b8add02d14f02eb49a02b57c8558a4a4, type: 3}
+  - {fileID: 1484208527795053249, guid: ec983c70ff79ea74c9fcb458222a69b5, type: 3}

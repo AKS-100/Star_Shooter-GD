@@ -1,6 +1,7 @@
-🌌 Star Shooter
+# 🌌 Star Shooter
 
-"Customize your ship, dodge the swarm, and survive the infinite cosmic frontier!"
+> **"Customize your ship, dodge the swarm, and survive the infinite cosmic frontier!"**
+
 Blast off into the cosmic unknown in **Star Shooter**, a fast-paced, pixel-art arcade space shooter built in Unity! Dodge enemy fire, weave through asteroid fields, and take down a relentless alien fleet. Whether you are blasting your way through the handcrafted campaign or testing your reflexes in the endless survival modes, you'll need sharp skills and a quick trigger finger to save the galaxy. 
 
 ## ✨ Key Features

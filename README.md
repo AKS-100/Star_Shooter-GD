@@ -25,12 +25,23 @@ Blast off into the cosmic unknown in **Star Shooter**, a fast-paced, pixel-art a
 ## 💻 How to Play / Installation
 
 **Play Online:**
-You can play the game directly in your browser on itch.io here: *(Insert your itch.io link here)*
+You can play the game directly in your browser on itch.io here: *https://aks24550s.itch.io/star-shooter*
 
 **Download for Windows:**
 1. Go to the [Releases](../../releases) tab of this repository.
 2. Download the latest `StarShooter_Windows.zip` file.
 3. Extract the folder and run `Star Shooter.exe`.
+
+## 📸Preview
+<img width="960" height="600" alt="1" src="https://github.com/user-attachments/assets/d9c560f9-e369-46fc-a75c-c99199cd4954" />
+<img width="960" height="600" alt="2" src="https://github.com/user-attachments/assets/2adb8f7e-3005-4ae9-a37c-3341c704d836" />
+<img width="960" height="600" alt="5" src="https://github.com/user-attachments/assets/0b3f2eda-7eff-4ea4-9944-3a3e37cc1073" />
+<img width="960" height="600" alt="4" src="https://github.com/user-attachments/assets/d8f644ac-e7ff-4fba-945a-6b23379dcd44" />
+<img width="959" height="600" alt="6" src="https://github.com/user-attachments/assets/a5606e5f-2c1a-4d68-a71a-636710ce7a74" />
+<img width="960" height="600" alt="3" src="https://github.com/user-attachments/assets/0fab8744-cc75-4a69-a2d3-02a16cbfc800" />
+<img width="144" height="283" alt="8" src="https://github.com/user-attachments/assets/7c7ee709-62ad-4808-aa70-f739b2556489" />
+<img width="155" height="236" alt="9" src="https://github.com/user-attachments/assets/d7bf50ca-afc8-4cd4-8d6f-e4365851af14" />
+
 
 ## 🛠️ Built With
 
